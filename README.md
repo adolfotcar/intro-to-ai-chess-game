@@ -5,4 +5,4 @@ Introduction to AI CA2
 This is a java Chess game with three modes:
 Random AI
 Next Move
-Two levels deep
+Two levels deep, this actually doesn't work   (=
